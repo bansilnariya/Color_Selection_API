@@ -1,0 +1,86 @@
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\appsettings.Development.json
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\appsettings.json
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.exe
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.deps.json
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.runtimeconfig.json
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.pdb
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Humanizer.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Npgsql.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\bin\Debug\net7.0\System.CodeDom.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.csproj.AssemblyReference.cache
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.GeneratedMSBuildEditorConfig.editorconfig
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.AssemblyInfoInputs.cache
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.AssemblyInfo.cs
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.csproj.CoreCompileInputs.cache
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.MvcApplicationPartsAssemblyInfo.cs
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.MvcApplicationPartsAssemblyInfo.cache
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.Color Selection API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.build.Color Selection API.props
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Color Selection API.props
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Color Selection API.props
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets.build.json
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets.development.json
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\scopedcss\bundle\Color Selection API.styles.css
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.csproj.CopyComplete
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\refint\Color Selection API.dll
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.pdb
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.genruntimeconfig.cache
+D:\POSTGRES SQL API\Color Selection API\Color Selection API\obj\Debug\net7.0\ref\Color Selection API.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\appsettings.Development.json
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\appsettings.json
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.exe
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.deps.json
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.runtimeconfig.json
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Color Selection API.pdb
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Humanizer.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Npgsql.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.csproj.AssemblyReference.cache
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.AssemblyInfoInputs.cache
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.AssemblyInfo.cs
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.csproj.CoreCompileInputs.cache
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.MvcApplicationPartsAssemblyInfo.cs
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.MvcApplicationPartsAssemblyInfo.cache
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.Color Selection API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.build.Color Selection API.props
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Color Selection API.props
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Color Selection API.props
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\scopedcss\bundle\Color Selection API.styles.css
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.csproj.CopyComplete
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\refint\Color Selection API.dll
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.pdb
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\Color Selection API.genruntimeconfig.cache
+D:\Git-Hub Projects\COLOR SELECTION PROJECT\Color Selection API\Color Selection API\obj\Debug\net7.0\ref\Color Selection API.dll

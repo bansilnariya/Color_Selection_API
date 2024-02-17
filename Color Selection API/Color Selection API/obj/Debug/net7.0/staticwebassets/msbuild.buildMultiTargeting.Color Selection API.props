@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Color Selection API.props" />
+</Project>
